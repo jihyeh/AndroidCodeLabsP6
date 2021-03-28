@@ -1,4 +1,5 @@
-ViewModel and ViewModelFactory - Starter Code
+Android CodeLabs Study
+Pathway 6 : Architecture components
 ==================================
 
 Use as starter code for the ViewModel codelab.
