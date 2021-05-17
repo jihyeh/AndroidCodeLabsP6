@@ -62,4 +62,8 @@ class MainActivity : AppCompatActivity() {
 /**
  * Codelab : Data binding with ViewModel and LiveData
  * https://developer.android.com/codelabs/kotlin-android-training-live-data-data-binding?hl=ko#0
+ *
+ * Q1. Listener bindings work with all versions of the Android Gradle plugin. -> is not true
+ * Q2. android:text= "@{@string/generic_name(user.name)}"
+ * Q3. When an event such as onClick() occurs
  * */
